@@ -4,13 +4,13 @@
 
 <br>
 
-```python
-ariel = {
-    "location":     "Costa Rica 🇨🇷",
-    "university":   "Instituto Tecnológico de Costa Rica",
-    "year":         "Final year — Computer Engineering",
-    "building":     ["a POS system", "learning ML", "breaking things"],
-    "ask_me_about": ["databases", "systems design", "anything really"]
+```json
+{
+  "location":     "Costa Rica 🇨🇷",
+  "university":   "Instituto Tecnológico de Costa Rica",
+  "year":         "Final year — Computer Engineering",
+  "building":     ["a POS system", "learning ML", "breaking things"],
+  "ask_me_about": ["databases", "systems design", "anything really"]
 }
 ```
 
@@ -72,8 +72,7 @@ Docker
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=AriDsec&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=94cb47&ring=94cb47&fire=94cb47&currStreakLabel=94cb47" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriDsec&layout=compact&theme=github_dark&hide_border=true&title_color=94cb47&text_color=ffffff&bg_color=0d1117" width="41%" />
+  <img src="https://streak-stats.demolab.com?user=AriDsec&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=94cb47&ring=94cb47&fire=94cb47&currStreakLabel=94cb47" width="100%" />
 
 </div>
 
