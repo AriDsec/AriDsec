@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ariel%20Fernández&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%40%20TEC%20Costa%20Rica&descAlignY=58&descSize=16&descColor=94cb47" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=180&section=header&text=Ariel%20Fernández&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%40%20TEC%20Costa%20Rica&descAlignY=58&descSize=15&descColor=94cb47" width="100%"/>
 </div>
 
 <br>
 
 ```python
 ariel = {
-    "location":   "Costa Rica 🇨🇷",
-    "university": "Instituto Tecnológico de Costa Rica",
-    "year":       "Final year — Computer Engineering",
-    "building":   ["a POS system", "learning ML", "breaking things"],
+    "location":     "Costa Rica 🇨🇷",
+    "university":   "Instituto Tecnológico de Costa Rica",
+    "year":         "Final year — Computer Engineering",
+    "building":     ["a POS system", "learning ML", "breaking things"],
     "ask_me_about": ["databases", "systems design", "anything really"]
 }
 ```
@@ -71,8 +71,10 @@ Docker
 ## Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AriDsec&show_icons=true&theme=github_dark&hide_border=true&icon_color=94cb47&title_color=94cb47&text_color=ffffff&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriDsec&layout=compact&theme=github_dark&hide_border=true&title_color=94cb47&text_color=ffffff&bg_color=0d1117" />
+
+  <img src="https://streak-stats.demolab.com?user=AriDsec&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=94cb47&ring=94cb47&fire=94cb47&currStreakLabel=94cb47" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriDsec&layout=compact&theme=github_dark&hide_border=true&title_color=94cb47&text_color=ffffff&bg_color=0d1117" width="41%" />
+
 </div>
 
 <br>
@@ -87,12 +89,12 @@ Docker
 
 <div align="center">
   <a href="https://github.com/AriDsec">
-    <img src="https://img.shields.io/badge/GitHub-AriDsec-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-AriDsec-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=94cb47"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:000000&height=100&section=footer" width="100%"/>
 </div>
